@@ -69,3 +69,7 @@ Natanael David Soto Salis - U20201c607
 
 | ![imagen]() |<p> ** [nombre del integrante] ** </p><p>*Ingeniería de Software*</p><p>[Escribir aqui descripcion]</p>|
 |:----------------------------------------| :- |
+| ![imagen]() |<p> ** [nombre del integrante] ** </p><p>*Ingeniería de Software*</p><p>[Escribir aqui descripcion]</p>|
+| ![imagen]() |<p> ** [nombre del integrante] ** </p><p>*Ingeniería de Software*</p><p>[Escribir aqui descripcion]</p>|
+| ![imagen]() |<p> ** [nombre del integrante] ** </p><p>*Ingeniería de Software*</p><p>[Escribir aqui descripcion]</p>|
+| ![imagen]() |<p> ** [nombre del integrante] ** </p><p>*Ingeniería de Software*</p><p>[Escribir aqui descripcion]</p>|
