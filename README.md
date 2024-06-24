@@ -1,6 +1,6 @@
 ﻿**3.	Capítulo III: Requirements Specification** 
 
-` 	`**3.1.		To-Be Scenario Mapping.**
+**3.1.		To-Be Scenario Mapping.**
 
 En esta sección se presentan los To-Be Scenario Mapping para el segmento objetivo donde se reflejarán a partir de los As-Is Scenario Mapping. la experiencia de usuario ideal si se resuelven los puntos de dolor y necesidades. La herramienta usada fue Miro:
 
@@ -8,7 +8,7 @@ En esta sección se presentan los To-Be Scenario Mapping para el segmento objeti
 
 <https://miro.com/welcomeonboard/NDFUcUtZQU9SWkZ4SDhKUnNoR0RFVjhWTWZnTFNGd245YVBzZU1UQkxsR3E2WjFaMURtZXY3QjRDeG1DYW53cXwzNDU4NzY0NTUxNzYxNjYxMjg2fDI=?share_link_id=418419123921> 
 
-` `**Brainstorm individually:**
+**Brainstorm individually:**
 
 ![](Aspose.Words.cbcb29ce-2a1e-42f6-9ebf-793eadb1dd46.001.png)
 
